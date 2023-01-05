@@ -1,1 +1,1 @@
-Codigos basicos, com logica simples, focados em demonstrar o conhecimento sobre a sintaxe das linguagens utilizadas
+Codigos basicos, com logica simples, focados em exemplificar o conhecimento sobre a sintaxe das linguagens utilizadas
