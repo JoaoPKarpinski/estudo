@@ -9,6 +9,9 @@ import teste.Livro;
 /*
  * O metodo filter funciona, muito intuitivamente, filtrando cada elemento 
  * da Stream e retornando o resultado em outra Stream. 
+ * 
+ * Importante: a stream retornada é do mesmo tipo que a original, apenas com 
+ * possíveis elementos a menos.
  */
 public class StreamFilter {
     public static void main(String[] args) {
