@@ -36,3 +36,9 @@ public class Stream1 {
         sNums.forEach((num) -> System.out.println(num));
     }
 }
+
+/*
+ * O this não é absolutamente obrigatório em todos os casos, mesmo em interfaces.
+ * Exemplo de um raciocínio que leva em conta esse fator é o método andThen da
+ * interface Compose.
+ */
