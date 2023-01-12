@@ -34,6 +34,9 @@ public class Tratamento2 {
      * que irá utilizar essa exceção.
      * Uma unchecked exception também PRECISA da palavrinha "throws" no método que lançará a exceção, como no exemplo acima, no método
      * throwException2().
+     * 
+     * 
+     * O compilador que trata diferente as RuntimeExceptions e suas subclasses, para serem unchecked, como os Errors.
      */
 
 }
