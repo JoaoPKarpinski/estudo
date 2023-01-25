@@ -31,7 +31,7 @@ public class CriandoStreams{
         
 
 
-        // Stream.generate(() -> "a"). forEach(println); // gerando elementos infinitos de acordo com a lambda.
+        // Stream.generate(() -> "a"). forEach(println); / gerando elementos infinitos de acordo com a lambda.
         // Stream.iterate(0, n -> n + 1) .forEach(println); // gerando elementos infinitos de acordo com o valor inicial (primeiro parametro) e a lambda.
     }
 }
