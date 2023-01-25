@@ -28,6 +28,7 @@ public class CriandoStreams{
         int[] intNumeros = {7, 8, 9, 10, 11, 12};
         Arrays.stream(intNumeros).forEach((num) -> System.out.println(num)); // esse metodo aceita apenas arrays mais basicos (TipoDoObjeto[]).
         
+        
 
 
         // Stream.generate(() -> "a"). forEach(println); // gerando elementos infinitos de acordo com a lambda.
